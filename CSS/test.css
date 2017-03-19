@@ -1,0 +1,10 @@
+/*
+背景画像
+*/
+
+body { margin: 0; }
+
+header {
+  background: url('active_background.jpg') 
+  background-position: 50% 50%;
+}
