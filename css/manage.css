@@ -1,5 +1,5 @@
 html {
-  background-image: url('./png/active_background.jpg');
+  background-image: url('/css/png/manage_background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
